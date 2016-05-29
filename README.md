@@ -4,8 +4,6 @@
 此工具会将字典中的每个word进行hash，然后与提供的hash进行比对。
 支持md5/sha1/sha256/sha512
 
-Usage: usagemain.py -h <hash type> -d <dictionary path> -t <hash password>
-
 Options:
   -h, --help   show this help message and exit
   -t HASHTYPE  specify hash type
