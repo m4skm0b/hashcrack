@@ -11,15 +11,8 @@ Options:
 
   -h, --help   show this help message and exit
   
-  -t HASHTYPE  specify hash type
+  -t HASHTYPE  specify hash type, md5/sha1/sha256/sha512
   
   -d DICTPATH  specify dictionary file
   
   -g HASHPASS  specify crack hash target
-  
-
--t  指定hash类型，如md5/sha1/sha256/sha512
-
--d  指定字典路径
-
--g  指定要破解的hash字符串
